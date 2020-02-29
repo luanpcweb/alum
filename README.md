@@ -1,4 +1,4 @@
-ALUM - SQL Backup Manager
+ALUM - Backup Manager
 ==========================
 
 Work in progress...
